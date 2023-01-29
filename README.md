@@ -1,3 +1,3 @@
 # DictionaryEncoder
 
-A description of this package.
+Encoder that can transform a Codable instance into a Dictionary representation.
